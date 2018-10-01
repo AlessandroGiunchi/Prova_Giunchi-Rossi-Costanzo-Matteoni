@@ -1,0 +1,7 @@
+C:\Users\alessandro.giunchi\source\repos\Prova-Giunchi\Prova-Giunchi\bin\Debug\Prova-Giunchi.exe.config
+C:\Users\alessandro.giunchi\source\repos\Prova-Giunchi\Prova-Giunchi\bin\Debug\Prova-Giunchi.exe
+C:\Users\alessandro.giunchi\source\repos\Prova-Giunchi\Prova-Giunchi\bin\Debug\Prova-Giunchi.pdb
+C:\Users\alessandro.giunchi\source\repos\Prova-Giunchi\Prova-Giunchi\obj\Debug\Prova-Giunchi.csprojAssemblyReference.cache
+C:\Users\alessandro.giunchi\source\repos\Prova-Giunchi\Prova-Giunchi\obj\Debug\Prova-Giunchi.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.giunchi\source\repos\Prova-Giunchi\Prova-Giunchi\obj\Debug\Prova-Giunchi.exe
+C:\Users\alessandro.giunchi\source\repos\Prova-Giunchi\Prova-Giunchi\obj\Debug\Prova-Giunchi.pdb
